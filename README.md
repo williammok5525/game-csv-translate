@@ -15,6 +15,8 @@ translate language for csv
 
 4.点击开始翻译程序会自动翻译
 
+5.如果翻译失败可能是程序没有访问文件的权限，右键用管理员打开试一试
+
 
 Please remember, this is for educational purposes only and may not be used for commercial purposes or any other profit-making activities.
 Copy the source file to prevent errors.
@@ -23,6 +25,7 @@ Create two folders, input and output (the names can be changed, file A and file 
 2. Select the source file and choose the output location.
 3. Then select your desired language.
 4. Click "Start Translation," and the program will automatically translate.
+5. If the translation fails, it may be because the program does not have permission to access the file. Try opening it as administrator by right-clicking.
 
 csv example:
 
