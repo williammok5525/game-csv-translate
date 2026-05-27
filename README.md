@@ -5,7 +5,8 @@ translate language for csv
 
 Please remember, this is for educational purposes only and may not be used for commercial purposes or any other profit-making activities.
 
-csv example
+csv example:
+
 input:
 ID,English,Others,Japanese,
 aweeklater,A week later...,After this text is disappeared..,一週間後...,
