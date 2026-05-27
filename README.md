@@ -6,6 +6,7 @@ translate language for csv
 复制源文件以防发生错误
 
 创建input和output两个文件夹（名字随便改，a文件、b文件）
+
 1.打开exe。
 
 2.选择原文件、选择输出的位置。
