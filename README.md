@@ -1,4 +1,3 @@
-# game-csv-translate
 translate language for csv
 
 切记，只做学习之用，不允许商用或任何产生利益的使用
