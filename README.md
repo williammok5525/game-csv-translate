@@ -16,6 +16,7 @@ translate language for csv
 
 5.如果翻译失败可能是程序没有访问文件的权限，右键用管理员打开试一试
 
+—————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 Please remember, this is for educational purposes only and may not be used for commercial purposes or any other profit-making activities.
 Copy the source file to prevent errors.
